@@ -285,7 +285,7 @@ section {
 }
 
 .filter:after {
-  background: rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.2);
   content: "";
   width: 100%;
   height: auto;
@@ -546,11 +546,11 @@ CHAT*********************************************/
 /*******STARTED SECTION********/
 #started {
   background: url('../img/green.jpg') fixed center center no-repeat;
-  -moz-background: url('../img/green.jpg') fixed center center no-repeat;
-  -webkit-background: url('../img/green.jpg') fixed center center no-repeat;
+  -moz-background: url('../img/green3.png') fixed center center no-repeat;
+  -webkit-background: url('../img/green3.png') fixed center center no-repeat;
   height:410px;
   position: relative;
-  background-size: ;
+  background-size:cover ;
   background-position: center;
   text-align: center;
 }
